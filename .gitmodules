@@ -1,0 +1,6 @@
+[submodule "ei23-frontend"]
+	path = ei23-frontend
+	url = https://github.com/hfccr/ei23-frontend
+[submodule "ei23-contracts"]
+	path = ei23-contracts
+	url = https://github.com/hfccr/ei23-contracts
